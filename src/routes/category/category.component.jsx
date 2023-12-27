@@ -37,8 +37,6 @@ const Category = () => {
 
   const [products, setProducts] = useState([]);
 
-  
-
   return (
     <Fragment>
       {
